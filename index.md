@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://image.shutterstock.com/z/stock-photo-blue-sky-with-cloud-338259794.jpg"
 feature_text: |
   ## Hello world
 ---
